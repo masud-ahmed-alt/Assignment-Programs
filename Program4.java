@@ -12,7 +12,7 @@ Q4. Write a Menu Driven Program in Java to perform multiplication of two matrice
  *
  * @author INZAMUL HOQUE
  */
-public class Four {
+public class Program4 {
     private static final String QNS = "Q4.Write a Menu Driven Program in Java to perform multiplication of two matrices";
     
     public static void main(String[] args){

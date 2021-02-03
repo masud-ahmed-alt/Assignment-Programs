@@ -9,7 +9,7 @@ package mcagimt.programs;
  *
  * @author INZAMUL HOQUE
  */
-public class Five {
+public class Program5 {
     public static void main(String[] args){
          System.out.println("Hello");
     }
